@@ -1,0 +1,4 @@
+infrastructure/environments/local/.terraform*
+*tfstate
+*zip
+services/locker/locker
